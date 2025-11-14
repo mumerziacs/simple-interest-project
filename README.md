@@ -1,4 +1,5 @@
-# Simple Interest Project
+<<<<<<< HEAD
+# Simple Interest Project - Beginner GitHub Submission
 
 
 This is a beginner project demonstrating a simple interest calculator using Bash scripting.
@@ -20,3 +21,7 @@ This is a beginner project demonstrating a simple interest calculator using Bash
 
 
 This project is for learning purposes and GitHub submission practice.
+=======
+# simple-interest-project
+Basic project submission for GitHub &amp; Git CLI tasks
+>>>>>>> 1d9117476533272807e31f7ba494bc31b517a6b2
